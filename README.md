@@ -1,5 +1,4 @@
-[![Maven Build Status](https://github.com/palosferi/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/palosferi/se-lab/actions/workflows/maven.yml)
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+![Maven Build Status](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # SE Spaceship
